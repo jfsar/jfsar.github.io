@@ -29,7 +29,7 @@ export function Projects() {
       image: JFSARImage,
       technologies: ["react.js", "typescript", "tailwind css", "shadcn ui"],
       liveUrl: "",
-      githubUrl: "https://github.com/jfsar"
+      githubUrl: "https://github.com/jfsar/jfsar.github.io"
     }
   ];
 
