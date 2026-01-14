@@ -7,7 +7,7 @@ I'm a web developer from the Philippines.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://jfsar.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://johnsarmiento.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srmntz)
 
 
